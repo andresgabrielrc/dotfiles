@@ -1,0 +1,8 @@
+#include "/usr/share/rofi/themes//gruvbox-dark-hard.theme"
+
+rofi.columns: 1
+rofi.lines: 5
+rofi.padding: 20
+rofi.font: DejaVu 8
+rofi.width: 25
+rofi.line-margin: 5
