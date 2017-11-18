@@ -1,3 +1,5 @@
+#Configuración de i3 - AndrésGabriel
+
 set $mod Mod4
 
 font pango:ubuntu 7
