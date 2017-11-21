@@ -1,3 +1,6 @@
+#CONFIGURACIÓN DE TERMITE
+# ~/.config/termite/config
+
 [options]
 allow_bold = true
 #audible_bell = false
