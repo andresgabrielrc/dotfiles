@@ -14,7 +14,7 @@ bindsym $mod+Return exec urxvt
 bindsym $mod+Shift+q kill
 
 #Lanzar Rofi
-bindsym $mod+d exec rofi -show run -lines 5 -opacity "90" -font "ubuntu 10"
+bindsym $mod+d exec rofi -show run
 
 # change focus
 bindsym $mod+j focus left
